@@ -56,16 +56,12 @@ int main()
 			{
 				printf("%d\t", m3[i][j]);
 			}
-			
 			printf("\n");
-		}
-			
+		}	
 	}
 	else
 	{
 		printf("\nMatrices are incompatible!, try again.\n\n");
 		exit(0);
-	}
-	
-	 
+	} 
 }
