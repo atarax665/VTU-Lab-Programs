@@ -1,1 +1,21 @@
+# C Programming Lab Programs
+### INDEX
 
+| Program No.| Question |
+| ------- | ------ |
+| [Program-01](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/01.%20Basic%20Calculator/calculator.c) | Develop a program to solve simple computational problems using arithmetic expressions and use of each operator leading to simulation of a Commercial calculator.(No built-in math function) |
+| [Program-02](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/02.%20Roots%20of%20a%20quadratic%20equation/quadratic.c) | Develop a program to compute the roots of a quadratic equation by accepting the coefficients. Print appropriate messages. |
+| [Program-03](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/03.%20Palindrome%20Number/palindrome_no.c) | Develop a program to find the reverse of a positive integer and check for palindrome or  not. Display appropriate messages.|
+| [Program-04](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/04.%20Electricity%20Bill/electricity_bill.c) | An electricity board charges the following rates for the use of electricity: for the first 200 units 80 paise per unit: for the next 100 units 90 paise per unit: beyond 300 units Rs 1 per unit. All users are charged a minimum of Rs. 100 as meter charge. If the total amount is more than Rs.400,  then an additional surcharge of 15% of total amount is charged. Write a program to read the name of the user, number of units consumed and print out the charges. |
+| [Program-05](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/05.%20Binary%20Search%20in%201D%20Array/Binary_search_in_1D_array.c) | Introduce 1D Array manipulation and implement Binary search. |
+| [Program-06](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/06.%20Prime%20Number/prime_no.c) | Implement using  functions  to  check  whether  the  given  number  is prime  and  display appropriate messages. (No built-in math function)|
+| [Program-07](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/07.%20Matrix%20Multiplication/matrix_multiplication.c) | Develop a program to introduce 2D Array manipulation and implement Matrix multiplication and ensure the rules of multiplication are checked.|
+| [Program-08](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/08.%20Compute%20sin(x)/compute_sinx.c) |Develop a Program to compute Sin(x) using Taylor Series approximation. Compare your result with the built-in Library function. Print both the results with appropriate messages. |
+| [Program-09](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/09.%20String%20Operations/string_fun.c) | Write functions to implement string operations such as compare, concatenate, string length. Convince the parameter passing techniques. |
+| [Program-10](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/10.%20Bubble%20Sort/bubble_sort.c) | Develop a program to sort the given set of N numbers using Bubble sort.|
+| [Program-11](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/11.%20Square%20Root/sq_root.c) | Develop a program to find the square root of a given number N and execute foe all possible inputs with appropriate messages. Note: Don’t use library function sqrt(n). |
+| [Program-12](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/12.%20Student%20Record%20using%20Structure/student_record.c) | Implement structures to read, write and compute average marks and the students scoring above and below the average marks for a class of N students. |
+| [Program-13](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/13.%20Sum%2C%20Mean%20and%20Standard%20Deviation/sum_mean_stddev_using_pointer.c) | Develop a program using pointers to compute the sum, mean and standard deviation of all elements stored in an array of n real numbers. |
+| [Program-14](https://github.com/atarax665/VTU-Lab-Programs/blob/master/1st%20Year/14.%20Convert%20Binary%20to%20Decimal%20using%20Recursion/binary_to_decimal.c) | Implement recursive functions for Binary to Decimal Conversion. |
+
+**Note** - *The index is linked to the C solution of the mentioned problems.*
