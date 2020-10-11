@@ -18,7 +18,7 @@ Function that returns
     }
     /*Check only till sqrt(n) because every composite number has atleast one
     prime factor less than or equal to square root of itself*/
-    for(int i=2;i<= sqrt(n);i++)
+    for(int i = 2; i <= sqrt(n); i++)
     {
         if(n % i == 0)
         {
@@ -64,4 +64,3 @@ Output: 17 is a prime number.
 Input: Enter the number: 39
 Output: 39 is not a prime number.
 */
-
