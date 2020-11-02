@@ -29,7 +29,7 @@ if __name__ == "__main__":
   result = is_prime(num)
 
   if result:
-    print(num, " is a prime.")
+    print(num, "is a prime.")
   else:
     print(num, "is not a prime.")
 
