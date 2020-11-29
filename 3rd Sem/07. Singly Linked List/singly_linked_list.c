@@ -19,15 +19,15 @@ node* getnode(node *head)
 {
 	node *nn;
 	nn=(node*)malloc(sizeof(node));
-	printf("Enter USN");
+	printf("Enter USN ");
 	scanf("%s",nn->usn);
-	printf("Enter Name");
+	printf("Enter Name ");
 	scanf("%s",nn->name);
-	printf("Enter Branch");
+	printf("Enter Branch ");
 	scanf("%s",nn->branch);
-	printf("Enter Semester");
+	printf("Enter Semester ");
 	scanf("%d",&nn->sem);
-	printf("Enter Phone number");
+	printf("Enter Phone number ");
 	scanf("%s",nn->phno);
 	nn->next='\0';
 	return nn;
@@ -175,7 +175,7 @@ node *delete(node *head)
 	int ch;
 	do
 	{
-	printf("Enter your choice:\n1.Insert Front\t2.Insert Rear\t3.Exit\n");
+	printf("Enter your choice:\n1.Delete Front\t2.Delete Rear\t3.Exit\n");
 	scanf("%d",&ch);
 	switch(ch)
 	{
